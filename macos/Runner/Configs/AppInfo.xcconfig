@@ -8,7 +8,7 @@
 PRODUCT_NAME = logowanie_telefonem
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = com.mikolajszadkowski.logowanie_telefonem.logowanieTelefonem
+PRODUCT_BUNDLE_IDENTIFIER = com.mikolajszadkowski.telefon.logowanieTelefonem
 
 // The copyright displayed in application information
-PRODUCT_COPYRIGHT = Copyright © 2022 com.mikolajszadkowski.logowanie_telefonem. All rights reserved.
+PRODUCT_COPYRIGHT = Copyright © 2022 com.mikolajszadkowski.telefon. All rights reserved.

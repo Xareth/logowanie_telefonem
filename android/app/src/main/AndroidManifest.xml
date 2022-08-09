@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.mikolajszadkowski.logowanie_telefonem.logowanie_telefonem">
+    package="com.mikolajszadkowski.telefon.logowanie_telefonem">
    <application
         android:label="logowanie_telefonem"
         android:name="${applicationName}"

@@ -7,7 +7,7 @@ project(runner LANGUAGES CXX)
 set(BINARY_NAME "logowanie_telefonem")
 # The unique GTK application identifier for this application. See:
 # https://wiki.gnome.org/HowDoI/ChooseApplicationID
-set(APPLICATION_ID "com.mikolajszadkowski.logowanie_telefonem.logowanie_telefonem")
+set(APPLICATION_ID "com.mikolajszadkowski.telefon.logowanie_telefonem")
 
 # Explicitly opt in to modern CMake behaviors to avoid warnings with recent
 # versions of CMake.

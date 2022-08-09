@@ -1,4 +1,4 @@
-package com.mikolajszadkowski.logowanie_telefonem.logowanie_telefonem
+package com.mikolajszadkowski.telefon.logowanie_telefonem
 
 import io.flutter.embedding.android.FlutterActivity
 

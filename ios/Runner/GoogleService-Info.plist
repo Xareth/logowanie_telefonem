@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>359453180443-1fadng5s878sg1pvn12e4ct087tfuchs.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.359453180443-1fadng5s878sg1pvn12e4ct087tfuchs</string>
+	<key>API_KEY</key>
+	<string>AIzaSyApouGE3eHHToFQAXWncBjzd-JAK81ThFc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>359453180443</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mikolajszadkowski.telefon.logowanieTelefonem</string>
+	<key>PROJECT_ID</key>
+	<string>logowanie-telefonem-64</string>
+	<key>STORAGE_BUCKET</key>
+	<string>logowanie-telefonem-64.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:359453180443:ios:7461efff900a798899eebe</string>
+</dict>
+</plist>

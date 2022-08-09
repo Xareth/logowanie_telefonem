@@ -89,11 +89,11 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "com.mikolajszadkowski.logowanie_telefonem" "\0"
+            VALUE "CompanyName", "com.mikolajszadkowski.telefon" "\0"
             VALUE "FileDescription", "logowanie_telefonem" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
             VALUE "InternalName", "logowanie_telefonem" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2022 com.mikolajszadkowski.logowanie_telefonem. All rights reserved." "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2022 com.mikolajszadkowski.telefon. All rights reserved." "\0"
             VALUE "OriginalFilename", "logowanie_telefonem.exe" "\0"
             VALUE "ProductName", "logowanie_telefonem" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
